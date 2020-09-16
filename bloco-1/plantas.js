@@ -12,8 +12,8 @@ const plantas = [{
     "iluminacao": "sol pleno",
     "plantio": "o ano todo",
     "perfumada": false,
-    "frutosComestiveis": false
-
+    "frutosComestiveis": false,
+    
 }]
   
 console.log(plantas)
