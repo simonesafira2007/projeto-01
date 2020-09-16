@@ -18,7 +18,7 @@ const receitas = [{
                },   
 
   
-  
+     
   }]
   
   console.log(receitas)
