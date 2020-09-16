@@ -7,7 +7,7 @@ const plantas = [{
     "familia": "Asteraceae",
     "genero": "Helianthus",
     "origem": "Estados Unidos",
-    "tamanho": "1,5 m a 4,0 m",
+    "tamanho": "1,5 m a 4,0 m",  
     "propagacao": "por semente",
     "iluminacao": "sol pleno",
     "plantio": "o ano todo",
@@ -15,5 +15,5 @@ const plantas = [{
     "frutosComestiveis": false,
     
 }]
-  
+    
 console.log(plantas)
