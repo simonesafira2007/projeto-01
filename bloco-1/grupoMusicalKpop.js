@@ -55,7 +55,7 @@ const grupoMusicalKpop = [
     "nomeDaBanda": "Stray Kids",
     "origem": "Seul, Coreia do Sul",
     "anoDoDebut": 2018,
-    "membros": ["Bang Chan","Lee Know","Changbin","Changbin", "Jisung", "Felix", "Seungmin","I.N", "Woojin"],
+    "membros": ["Bang Chan","Lee Know","Changbin","Changbin", "Jisung", "Felix", "Seungmin","I.N"],
     "estiloDeMusica": ["K-pop","Hip-hop"],
     "hitsDeSucesso": ["I am Not","Levanter","Side Effects","Astronaut "],
     "empresa": "JYP Entertainment"
