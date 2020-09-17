@@ -43,6 +43,52 @@ const livros = [
     "titulo": "O vilarejo",
     "paginas": 96,
     "autor": "Raphael Montes",
+     },
+     {
+    "id": 6,
+    "dataPublicacao": 2016,
+    "tema": "Leitura Infantil",
+    "titulo": "A bota do bode",
+    "paginas": 16,
+    "autor": "Mary França ",   
+     },
+     {
+    "id": 7,
+    "dataPublicacao": 2014,
+    "tema": "Ficção Fantasiosa",
+    "titulo": "Harry Potter and the deathly hallows",
+    "paginas": 640,
+    "autor": "J. K. Rowling ", 
+
+     },
+     {
+    "id": 8,
+    "dataPublicacao": 2019,
+    "tema": "Literatura Internacional",
+    "titulo": "O Templo",
+    "paginas": 240,
+    "autor": "Stephen Spender ",    
+
+     },
+     {
+    "id": 9,
+    "dataPublicacao": 2019,
+    "tema": "Nacional",
+    "titulo": "Enfodere-se",
+    "paginas": 208,
+    "autor": "Caio Carneiro ",    
+   
+
+     },
+     {
+        "id": 10,
+        "dataPublicacao": 2017,
+        "tema": "Nacional",
+        "titulo": "Seja foda",
+        "paginas": 192,
+        "autor": "Caio Carneiro ",    
+
+
      }
     ]
     
