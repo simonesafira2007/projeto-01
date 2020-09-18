@@ -8,7 +8,7 @@ const receitas = [{
     "dificuldade": "fácil",
     "tempoDePreparo": "30 minutos",
     "ocasioes":["dia-a-dia", "ocasiões especiais"],
-    "criador": "Mariana Fonseca",
+    "criador": "Mariana Fonseca"
                
                 
    }, 
@@ -22,7 +22,7 @@ const receitas = [{
    "dificuldade": "fácil",
    "tempoDePreparo": "10 minutos",
    "ocasioes":["dia-a-dia", "ocasiões especiais"],
-   "criador": "Lourdes Borba",
+   "criador": "Lourdes Borba"
                           
    },
    {
@@ -35,7 +35,7 @@ const receitas = [{
    "dificuldade": "Médio",
    "tempoDePreparo": "30 minutos",
    "ocasioes":"Festas",
-   "criador": "Aline Chermoula",
+   "criador": "Aline Chermoula"
                              
 
    },
@@ -49,10 +49,91 @@ const receitas = [{
       "dificuldade": "Médio",
       "tempoDePreparo": "30 minutos",
       "ocasioes": ["Festas","Natal"],
-      "criador": "Saschi ",
+      "criador": "Saschi "
 
-   }            
-  
+   },
+   {
+      "id": 5,
+      "nome": "Petit Gateau de tapioca",
+      "metodoDePreparo": "Assado",
+      "ingredientes": ["tapioca", " clara de ovo", "chocolate em pó", "fermento", "leite vegetal"],
+      "rendimentoPorPorcao": 4,
+      "categoria": ["Bolinho", "Cupcake"],
+      "dificuldade": "Fácil",
+      "tempoDePreparo": "15 minutos",
+      "ocasioes": "Dia a Dia",
+      "criador": "Didier "
+
+   },
+   {
+      "id": 6,
+      "nome": "Polvo frio com vinagrete",
+      "metodoDePreparo": "Assado",
+      "ingredientes": [" polvo ", " tomate ", "cebola roxa", "azeitona grega", "azeite", " pimenta-do-reino", "gelo", "sal"],
+      "rendimentoPorPorcao": "",
+      "categoria": ["Peixe", "Fruto do Mar"],
+      "dificuldade": "Médio",
+      "tempoDePreparo": "45 minutos",
+      "ocasioes": "Ocasiões Especiais",
+      "criador": "Roberto Seba"
+
+   },
+   {
+
+      "id": 7,
+      "nome": "Berinjela com trigo, passas e iogurte",
+      "metodoDePreparo": "Grelhado",
+      "ingredientes": [" berinjela ", "trigo  ", "uva-passa branca", "azeitona ", "azeite", "ciboulette", "sal", " pimenta-do-reino"],
+      "rendimentoPorPorcao": 2,
+      "categoria": ["Legume e Verdura"],
+      "dificuldade": "Fácil",
+      "tempoDePreparo": "30 minutos",
+      "ocasioes": ["Dia a Dia", "Ocasiões Especiais"],
+      "criador": "Mariana Fonseca"
+
+   },
+   {
+      "id": 8,
+      "nome": "Camarão grelhado com iogurte",
+      "metodoDePreparo": "Grelhado",
+      "ingredientes": ["camarão rosa ", " leite ", "iogurte desnatado", "azeite", "flor de sal", " pimenta-do-reino"],
+      "rendimentoPorPorcao": "",
+      "categoria": "Peixe e Fruto do Mar",
+      "dificuldade": "Médio",
+      "tempoDePreparo": "30 a 45 minutos",
+      "ocasioes": "Ocasiões Especiais",
+      "criador": "Lucas Felipe"
+
+      
+   },
+   {
+
+      "id": 9,
+      "nome": "Arroz vegano de Natal",
+      "metodoDePreparo": "Cozido",
+      "ingredientes": ["arroz", " caldo de legumes ", "cebola ", "cenoura", "pimentão vermelho", " ervilha", "amêndoas", "uva-passa", " salsa"],
+      "rendimentoPorPorcao": 6,
+      "categoria": ["Arroz", "Risoto"],
+      "dificuldade": "Médio",
+      "tempoDePreparo": "30 a 45 minutos",
+      "ocasioes": "Natal",
+      "criador": "Ormuzd Alves"
+
+   },
+   {
+      "id": 10,
+      "nome": "Salada de lentilha vegana",
+      "metodoDePreparo": "Cru",
+      "ingredientes": ["lentilha ", " tomates ", "sal", "cebola roxa", "cenoura", "pimenta", "hortelã", "cebolinha-verde", "suco de limão", " salsa", "azeitonas"],
+      "rendimentoPorPorcao": 6,
+      "categoria": "Salada",
+      "dificuldade": "Fácil",
+      "tempoDePreparo": "30 minutos",
+      "ocasioes": "Natal",
+      "criador": "Melchior Neto"
+
+
+   }
      
    ]
   
