@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "instituicaoDeEnsino": "UFPE",
+        "curso": "Design - Bacharelado",
+        "cargaHoraria": "3030 horas"
+    },
+    {
+        "id": 2,
+        "instituicaoDeEnsino": "UFPE",
+        "curso": " Biomedicina - Bacharelado",
+        "cargaHoraria": "2760 horas"
+    },
+    {
+        "id": 3,
+        "instituicaoDeEnsino": "UFPE",
+        "curso": "Dança - Licenciatura",
+        "cargaHoraria": "2880 horas"
+    },
+    {
+        "id": 4,
+        "instituicaoDeEnsino": "UFRPE",
+        "curso": "Agronomia",
+        "cargaHoraria": "3.990 horas"
+    },
+    {
+        "id": 5,
+        "instituicaoDeEnsino": "UFRPE",
+        "curso": "Economia Doméstica",
+        "cargaHoraria": "3.300 horas"
+    },
+    {
+        "id": 6,
+        "instituicaoDeEnsino": "UFRPE",
+        "curso": "Medicina Veterinária",
+        "cargaHoraria": "4.170 horas"
+    },
+    {
+        "id": 7,
+        "instituicaoDeEnsino": "UFRPE",
+        "curso": "Licenciatura em Química",
+        "cargaHoraria": "3.090 horas"
+    },
+    {
+        "id": 8,
+        "instituicaoDeEnsino": "UPE",
+        "curso": "Licenciatura em Matemática",
+        "cargaHoraria": "3.090 horas"
+    },
+    {
+        "id": 9,
+        "instituicaoDeEnsino": "UPE",
+        "curso": "Bacharelado em Engenharia Elétrica Eletrotécnica",
+        "cargaHoraria": "4.155 horas"
+    },
+    {
+        "id": 10,
+        "instituicaoDeEnsino": "UPE",
+        "curso": "Bacharelado em Engenharia da Computação",
+        "cargaHoraria": "3.600 horas"
+    }
+]
