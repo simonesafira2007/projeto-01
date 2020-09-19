@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nomeDoTime": "Dallas Cowboys (NFL)",
+        "valor": "US$ 5,5 bilhões",
+        "proprietario": "Jerry Jones",
+        "anoDeCompra": 1989,
+        "precoPago": "US$ 150 milhões"
+    },
+    {
+        "id": 2,
+        "nomeDoTime": "New York Yankees (MLB)",
+        "valor": "US$ 5 bilhões",
+        "proprietario": "Família Steinbrenner",
+        "anoDeCompra": 1973,
+        "precoPago": "US$ 8,8 milhões"
+    },
+    {
+        "id": 3,
+        "nomeDoTime": "New York Knicks (NBA)",
+        "valor": "US$ 4,6 bilhões",
+        "proprietario": "Madison Square Garden Company",
+        "anoDeCompra": 1997,
+        "precoPago": "US$ 300 milhões"   
+    },
+    {
+        "id": 4,
+        "nomeDoTime": "Los Angeles Lakers (NBA)",
+        "valor": "US$ 4,4 bilhões",
+        "proprietario": ["Jerry Buss Family Trusts" ,"Philip Anschutz"],
+        "anoDeCompra": [1979, 1998],
+        "precoPago": ["US$ 20 milhões", "US$ 268 milhões" ]     
+    },
+    {
+        "id": 5,
+        "nomeDoTime": "Golden State Warriors (NBA)",
+        "valor": "US$ 4,3 bilhões",
+        "proprietario": ["Joe Lacob" ,"Peter Guber"],
+        "anoDeCompra": 2010,
+        "precoPago": "US$ 450 milhões"
+    },
+    {
+        "id": 6,
+        "nomeDoTime": "Real Madrid (futebol)",
+        "valor": "US$ 4,24 bilhões",
+        "proprietario": "Membros do clube",
+        "anoDeCompra": "Não se aplica",
+        "precoPago": "Não se aplica"   
+    },
+    {
+        "id": 7,
+        "nomeDoTime": "New England Patriots (NFL)",
+        "valor": "US$ 4,1 bilhões",
+        "proprietario": "Robert Kraft",
+        "anoDeCompra": 1994,
+        "precoPago": "US$ 172 milhões"      
+    },
+    {
+        "id": 8,
+        "nomeDoTime": "Barcelona (futebol)",
+        "valor": "US$ 4,02 bilhões",
+        "proprietario": "Membros do clube",
+        "anoDeCompra": "Não se aplica",
+        "precoPago": "Não se aplica"      
+    },   
+    {
+        "id": 9,
+        "nomeDoTime": " New York Giants (NFL)",
+        "valor": "US$ 3,9 bilhões",
+        "proprietario": ["John Mara", "Steven Tisch"],
+        "anoDeCompra": [1925, 1991],
+        "precoPago": ["US$ 500" ,"US$ 150 milhões"] 
+    },
+    {
+        "id": 10,
+        "nomeDoTime": "Manchester United (futebol)",
+        "valor": "US$ 3,81 bilhões",
+        "proprietario": "Família Glazer",
+        "anoDeCompra": 2005,
+        "precoPago": "US$ 1,4 bilhão" 
+    }
+]
