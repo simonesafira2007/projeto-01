@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nomeDaCidade": "Londres",
+        "pontosTuristicoMaisConhecido": ["Big Ben", "Palácio de Buckingham", "Museu de cera Madame Tussaud"],
+        "pais":"Reino Unido"
+    },
+    {
+        "id": 2,
+        "nomeDaCidade": "Paris",
+        "pontosTuristicoMaisConhecido": ["Torre Eiffel", "Arco do Triunfo"],
+        "pais":"França"    
+    },
+    {
+        "id": 3,
+        "nomeDaCidade": "Bangkok",
+        "pontosTuristicoMaisConhecido": ["Ilha Phuket", "Ilha Koh Samui"],
+        "pais":"Tailândia"    
+    },
+    {
+        "id": 4,
+        "nomeDaCidade": "Roma",
+        "pontosTuristicoMaisConhecido": ["Fontana di Trevi","Coliseu", "Vaticano"],
+        "pais":"Itália"    
+    },
+    {
+        "id": 5,
+        "nomeDaCidade": "Nova York",
+        "pontosTuristicoMaisConhecido": ["Estátua da Liberdade","Central Park","Empire State Building"],
+        "pais":"EUA"    
+    },
+    {
+        "id": 6,
+        "nomeDaCidade": "Rio de Janeiro",
+        "pontosTuristicoMaisConhecido": ["Pão de Açucar", "Praia de Ipanema"],
+        "pais":"Brasil"    
+    },
+    {
+        "id": 7,
+        "nomeDaCidade": "Dubai",
+        "pontosTuristicoMaisConhecido": "Hotel Burj Al Arab",
+        "pais":" Emirados Árabes"    
+    },
+    {
+        "id": 8,
+        "nomeDaCidade": "China",
+        "pontosTuristicoMaisConhecido": ["Muralha da China", "Templos budistas"],
+        "pais":"China"    
+    },
+    {
+        "id": 9,
+        "nomeDaCidade": " Istambul",
+        "pontosTuristicoMaisConhecido": ["Capadócia", "Pamukkale"],
+        "pais":"Turquia"    
+    },
+    {
+        "id": 10,
+        "nomeDaCidade": "Moscou",
+        "pontosTuristicoMaisConhecido": "Estações de metrô",
+        "pais":"Rússia"    
+    }
+]
