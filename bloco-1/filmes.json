@@ -1,4 +1,5 @@
-const filmes = [{
+    [
+    {
     "id": 1,
     "titulo": "E o vento levou",
     "distribuidor": "Warner Bros",
@@ -13,10 +14,8 @@ const filmes = [{
     },
     "cor": "colorido",
     "nacionalidade": "EUA"
-    
     },
-{
-
+    {
     "id": 2,
     "titulo": "Capitão América: Soldado Invernal",
     "distribuidor": "Buena Vista(Disney)",
@@ -30,10 +29,9 @@ const filmes = [{
         "atorCoadjuvante":"Samuel L.Jackson"
     },
     "cor": "colorido",
-    "nacionalidade": "EUA"
-    
-},
-{
+    "nacionalidade": "EUA"   
+    },
+    {
     "id": 3,
     "titulo": "Amor em Sampa",
     "distribuidor": ["Pulsar Cinema", "Coração da Selva"],
@@ -48,9 +46,8 @@ const filmes = [{
     },
     "cor": "colorido",
     "nacionalidade": "Brasil"
-
-},
-{
+    },
+    {
     "id": 4,
     "titulo": "É fada",
     "distribuidor": "Daniel Filho",
@@ -64,15 +61,14 @@ const filmes = [{
         "atorCoadjuvante":"Aramis Trindade "
     },
     "cor": "colorido",
-    "nacionalidade": "Brasil"
-   
-},
-{
+    "nacionalidade": "Brasil"  
+    },
+    {
     "id": 5,
     "titulo": "Fala comigo",
     "distribuidor": "Vitrine Filmes",
     "tipoDoFilme": "Drama",
-    "diretor": "	Felipe Sholl",
+    "diretor": "Felipe Sholl",
     "categoria": "drama",
     "anoLancamento": 2016,
     "casting": {
@@ -81,17 +77,15 @@ const filmes = [{
         "atorCoadjuvante":""
     },
     "cor": "colorido",
-    "nacionalidade": "Brasil"
-      
-},
-{
-
+    "nacionalidade": "Brasil"     
+    },
+    {
     "id": 6,
     "titulo": "Os Dez Mandamentos ",
     "distribuidor": ["Paris Filmes","Downtown Filmes"],
     "tipoDoFilme": "Drama",
-    "diretor": "	Felipe Sholl",
-    "categoria": "	épico",
+    "diretor": "Felipe Sholl",
+    "categoria": "épico",
     "anoLancamento": 2016,
     "casting": {
         "atorPrincipal": "Guilherme Winter",
@@ -100,9 +94,8 @@ const filmes = [{
     },
     "cor": "colorido",
     "nacionalidade": "Brasil"    
-},
-{
-
+    },
+    {
     "id": 7,
     "titulo": "Entre Idas e Vindas ",
     "distribuidor": "Imagem Filmes",
@@ -117,9 +110,8 @@ const filmes = [{
     },
     "cor": "colorido",
     "nacionalidade": "Brasil"    
-}, 
-{
-    
+    }, 
+    { 
     "id": 8,
     "titulo": "O Shaolin do Sertão  ",
     "distribuidor": "Paris Filmes",
@@ -134,10 +126,8 @@ const filmes = [{
     },
     "cor": "colorido",
     "nacionalidade": "Brasil"      
-
-},
-{
-
+    },
+    {
     "id": 9,
     "titulo": "Mãe Só Há Uma",
     "distribuidor": "Vitrine Filmes",
@@ -152,10 +142,8 @@ const filmes = [{
     },
     "cor": "colorido",
     "nacionalidade": "Brasil"  
-
-},
-{
-
+    },
+    {
     "id": 10,
     "titulo": "Tô Ryca",
     "distribuidor": ["Paris Filmes", "Downtown Filmes"],
@@ -170,9 +158,8 @@ const filmes = [{
     },
     "cor": "colorido",
     "nacionalidade": "Brasil"  
-
-}
+    }
 ]
     
-    console.log(filmes)
+    
     

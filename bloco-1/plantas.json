@@ -1,5 +1,5 @@
-const plantas = [{
-
+[
+{
 "id": 1,
 "nomePopular": "girassol",
 "outrosNomes": ["Corona-solar", "margarida-do-peru"],
@@ -12,8 +12,7 @@ const plantas = [{
 "iluminacao": "sol pleno",
 "plantio": "o ano todo",
 "perfumada": false,
-"frutosComestiveis": false
-    
+"frutosComestiveis": false    
 },
 {
 "id": 2,
@@ -44,7 +43,6 @@ const plantas = [{
 "plantio": "o ano todo",
 "perfumada": false,
 "frutosComestiveis": false
-
 },
 {
 "id": 4,
@@ -61,7 +59,6 @@ const plantas = [{
 "frutosComestiveis": true
 },
 {
-
 "id": 5,
 "nomePopular": "jiboia",
 "outrosNomes": "hera-do-diabo",
@@ -104,10 +101,8 @@ const plantas = [{
 "plantio": "o ano todo",
 "perfumada": false,
 "frutosComestiveis": true
-
 },
-{
- 
+{ 
 "id": 8,
 "nomePopular": "acácia-amarela",
 "outrosNomes": ["cássia-imperial", "canafístula", "chuva-de-ouro", "cássia-fístula"],
@@ -136,7 +131,6 @@ const plantas = [{
 "plantio": "o ano todo",
 "perfumada": false,
 "frutosComestiveis": true
-
 },
 {
 "id": 9,
@@ -151,8 +145,7 @@ const plantas = [{
 "iluminacao": ["meia sombra", "sol pleno"],
 "plantio": "o ano todo",
 "perfumada": false,
- "frutosComestiveis": true
-    
+ "frutosComestiveis": true   
 },
 {
 "id": 10,
@@ -168,9 +161,7 @@ const plantas = [{
 "plantio": "o ano todo",
 "perfumada": false,
 "frutosComestiveis": false
-        
-
 }
 ]
     
-console.log(plantas)
+

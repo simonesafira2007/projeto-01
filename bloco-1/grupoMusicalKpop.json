@@ -1,6 +1,5 @@
-const grupoMusicalKpop = [
+[
     {
-    
     "id": 1,
     "nomeDaBanda": "EXO",
     "origem": "Seul, Coreia do Sul",
@@ -8,12 +7,9 @@ const grupoMusicalKpop = [
     "membros": ["Xiumin","Luhan","Kris","Suho","Lay","Baekhyun","Chen","Chanyeol","D.O.","Tao","Kai","Sehun"],
     "estiloDeMusica": ["K-pop", "Mandopop", "R&B", "Dance-pop", "Eletrônica", "J-pop"],
     "hitsDeSucesso": ["Growl","Call Me Baby","Monster","Love Shot"],
-    "empresa": "SM Entertainment"
-           
+    "empresa": "SM Entertainment"       
     },  
-    
     {
-    
     "id": 2,
     "nomeDaBanda": "BTS",
     "origem": "Seul, Coreia do Sul",
@@ -21,11 +17,9 @@ const grupoMusicalKpop = [
     "membros": ["Jin","Suga","J-Hope","RM","Jimin","V","Jungkook"],
     "estiloDeMusica": ["K-pop", "hip pop", "EDM", "R&B"],
     "hitsDeSucesso": ["I Need U","DNA","Boy With Luv","Dynamite"],
-    "empresa": " Big Hit Entertainment"
-            
+    "empresa": " Big Hit Entertainment"        
     },
     {
-
     "id": 3,
     "nomeDaBanda": "KARD",
     "origem": "Seul, Coreia do Sul",
@@ -34,11 +28,8 @@ const grupoMusicalKpop = [
     "estiloDeMusica": ["K-pop","Hip-hop", "Eletropop"],
     "hitsDeSucesso": ["Oh NaNa","Don't Recall","Rumor","Hola Hola"],
     "empresa": " DSP Media"
-
-
     },
     {
-     
     "id": 4,
     "nomeDaBanda": "Blackpink",
     "origem": "Seul, Coreia do Sul",
@@ -47,8 +38,6 @@ const grupoMusicalKpop = [
     "estiloDeMusica": ["K-pop","Hip-hop", "EDM"],
     "hitsDeSucesso": ["How You Like That","Whistle","Boombayah","Kill This Love "],
     "empresa": ["YG Entertainment", "Interscope"]
-
-
     },
     {
     "id": 5,
@@ -69,7 +58,6 @@ const grupoMusicalKpop = [
     "estiloDeMusica": ["K-pop","house", "trap"],
     "hitsDeSucesso": ["Bon Bon Chocolat","Adios"],
     "empresa": "Yuehua Entertainment"
-
     },
     {
     "id": 7,
@@ -80,7 +68,6 @@ const grupoMusicalKpop = [
     "estiloDeMusica": ["K-pop", "Bubblegum pop"],
     "hitsDeSucesso": ["Me Gustas Tu","Rough", "Time for the Moon Night", "Sunrise"],
     "empresa": "Big Hit Entertainment"
-
     },
     {
     "id": 8,
@@ -91,10 +78,8 @@ const grupoMusicalKpop = [
     "estiloDeMusica": ["K-Pop", "J-Pop"],
     "hitsDeSucesso": ["The One","Ka-CHING", "Blooming Days", "Magic"],
     "empresa": "S.M. Entertainment"
-
     },
     {
-
     "id": 9,
     "nomeDaBanda": "Girl's Day ",
     "origem": "Seul, Coreia do Sul",
@@ -103,7 +88,6 @@ const grupoMusicalKpop = [
     "estiloDeMusica": ["K-Pop", "Dance-pop"],
     "hitsDeSucesso": ["Twinkle Twinkle", "Hug Me Once", "Don't Forget Me", "Expectation", "Something", "Darling", "Ring My Bell"],
     "empresa": ["Dream Tea Entertainment", "Kiss Entertainment Inc"]
-    
     },
     {
     "id": 10,
@@ -114,9 +98,7 @@ const grupoMusicalKpop = [
     "estiloDeMusica": ["K-pop ", "hip hop ", "electro-hop ","pop-rap"],
     "hitsDeSucesso": ["High High", "Oh Yeah", "Knock Out"],
     "empresa": ["YG Entertainment", "Avex/YGEX"]
-        
-
     }
     
     ]
-    console.log (grupoMusicalKpop)
+    
